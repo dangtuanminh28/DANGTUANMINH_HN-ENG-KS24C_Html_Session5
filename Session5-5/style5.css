@@ -1,20 +1,23 @@
-#user1 {
-    font-size: 50px;
-    vertical-align: top;
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    color: black;
 }
 
-#user2 {
-    vertical-align: top;
+h2 {
+    color: blue;
 }
 
-#user3 {
-    color: rgb(0, 0, 0);
+.code-block {
+    background-color: gray;
+    padding: 15px;
+    border-left: 5px solid yellow;
 }
 
-#user4 {
-    color: gray;
-}
-
-#user5 {
-    color: black
+pre {
+    font-family: monospace;
+    background-color: lemonchiffon;
+    padding: 10px;
 }

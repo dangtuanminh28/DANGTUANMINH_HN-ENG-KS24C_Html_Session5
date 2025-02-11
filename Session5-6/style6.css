@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.code-block {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.try-button {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.try-button:hover {
+    background-color: darkgreen;
+}
