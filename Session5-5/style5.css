@@ -1,16 +1,20 @@
-#td-01 {
-    background-color: rgb(207, 195, 21);
+#user1 {
+    font-size: 50px;
+    vertical-align: top;
 }
 
-#td-02 {
-    background-color: rgb(247, 234, 236);
+#user2 {
+    vertical-align: top;
 }
 
-h4 {
-    font-size: 20px;
-    color: rgb(0, 102, 255);
+#user3 {
+    color: rgb(0, 0, 0);
 }
 
-* {
-    font-family: sans-serif;
+#user4 {
+    color: gray;
+}
+
+#user5 {
+    color: black
 }
